@@ -1,5 +1,5 @@
-evohtmltopdfazuretest
-=====================
+EVO HTML to PDF Azure Test
+==========================
 This repository reproduces two basic HTML to PDF conversion tests that both fail in Azure Websites. It uses the <a href="http://www.evopdf.com/html-to-pdf-converter.aspx">EVO HTML to PDF Converter</a> library.
 There are two basic tests, both fail in Azure Website.
 
